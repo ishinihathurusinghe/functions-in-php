@@ -1,6 +1,6 @@
 <?php
 
- function sayHello($name)  {
+ function sayHello($name){
     echo "good morning $name ";
  }
 
